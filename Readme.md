@@ -2,6 +2,12 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kandy-Hamisi&show_icons=true&theme=radical)   
 
+<p>
+<a href="https://github.com/Kandy-Hamisi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GeneralFib&layout=compact&range=last_7_days&bg_color=30,e96243,934e95&title_color=fff&text_color=fff" />
+</a>
+</p>
+
 [<img src="https://img.pngio.com/twitter-logo-transparent-png-stickpng-twitter-logo-transparent-background-png-400_400.png" width="5%" height="5%" />](https://twitter.com/Martoe3301https://twitter.com/hamisi_kandy)
 
 

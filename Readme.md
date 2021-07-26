@@ -1,6 +1,7 @@
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kandy-Hamisi&show_icons=true&theme=radical)   
+
+[![Kandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kandy-Hamisi&show_icons=true&icons_color=yellow&bg_color=30,e96243,934e95&title_color=fff&text_color=fff")](https://github.com/Kandy-Hamisi/github-readme-stats)
 
 <p>
 <a href="https://github.com/Kandy-Hamisi/github-readme-stats">

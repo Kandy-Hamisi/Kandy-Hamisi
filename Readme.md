@@ -44,11 +44,11 @@
 <h2 align="center">Projects</h2>
 
 <!-- Project 1 -->
-<h3 align="center">Project 1</h3>
-<p align="center">Description of project 1</p>
+<h3 align="center">Fiverr Clone</h3>
+<p align="center">An Ongoing Frontend Website design similar to Fiverr</p>
 <p align="center">
-  <a href="https://github.com/johndoe/project-1">View on GitHub</a> |
-  <a href="https://project-1.netlify.app">View Demo</a>
+  <a href="https://github.com/Kandy-Hamisi/fiverr-kandy">View on GitHub</a> |
+  <a href="https://fiverr-kandy-lbmj.vercel.app/">View Demo</a>
 </p>
 
 <!-- Project 2 -->

@@ -15,10 +15,10 @@
   </div>
 
 <!-- Your name -->
-<h1 align="center">Kandy Hamisi SaiD</h1>
+<h1 align="center">Kandy Hamisi Said</h1>
 
 <!-- Your tagline -->
-<p align="center">Full Stack Developer | Open Source Enthusiast</p>
+<p align="center">Full Stack Developer | Open Source Enthusiast | Front End Heavy</p>
 
 <!-- Your social media handles -->
 <p align="center">
@@ -44,11 +44,11 @@
 <h2 align="center">Projects</h2>
 
 <!-- Project 1 -->
-<h3 align="center">Fiverr Clone</h3>
-<p align="center">An Ongoing Frontend Website design similar to Fiverr</p>
+<h3 align="center">Car Hub</h3>
+<p align="center">A Car web application portfolio where users can search and view different types of models and makes of cars. I used the free Cars API from <a href="https://api-ninjas.com/">API Ninjas</a> </p>
 <p align="center">
-  <a href="https://github.com/Kandy-Hamisi/fiverr-kandy">View on GitHub</a> |
-  <a href="https://fiverr-kandy-lbmj.vercel.app/">View Demo</a>
+  <a href="https://github.com/Kandy-Hamisi/showRoom">View on GitHub</a> |
+  <a href="https://show-room-theta.vercel.app/">View Demo</a>
 </p>
 
 <!-- Project 2 -->
